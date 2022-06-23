@@ -11,6 +11,8 @@ public class TypeCasting {
 		System.out.println("Float value is : "+y);
 		double b=y;
 		System.out.println("Double Value is : "+b);
+		int l=(int)b;
+		System.out.println("Explicit Type casting "+l);
 	}
 
 }
