@@ -6,8 +6,10 @@ public class ArithmeticCalculator {
 	public static void main(String gg[])
 	{
 		int number1,number2,result;
+		
 		Scanner sc=new Scanner(System.in);
 		while(true)
+
 		{
 			System.out.println("Enter the numbers: ");
 			number1=sc.nextInt();
